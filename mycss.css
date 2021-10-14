@@ -1,0 +1,17 @@
+.header{
+    padding:60px;
+    text-align:center;
+    background: #28abdf;
+    color:white;
+    font-size: 60px;
+}
+
+.column{
+    float:left;
+    width: 33.33%;
+}
+.row:after{
+    content:"";
+    display:table;
+    clear:both;
+}
