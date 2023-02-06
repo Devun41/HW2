@@ -17,4 +17,16 @@
 }
 .head{
     background-color: rgb(167, 167, 167);
+    padding: 10px 0px;
+}
+#about{
+    padding:15px;
+}
+#img_col {
+    background-color: rgb(167, 167, 167);
+    align-content: center;
+
+}
+#img{
+   
 }
